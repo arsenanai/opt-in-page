@@ -1,4 +1,4 @@
-# Opt in page for some company
+# Opt in page example
 
 ## Steps to install and run
 
